@@ -1,0 +1,18 @@
+.mainborder
+{
+	border: solid 5px sandybrown;
+	width: 700px;
+	height: 400px;
+	margin-left: 700px;
+	margin-top: 100px;
+}
+.purplesquare
+{
+	border: solid 5px purple;
+	background-color: purple;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -410px;
+	left: 700px;
+}
