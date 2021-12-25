@@ -16,3 +16,23 @@
 	top: -410px;
 	left: 700px;
 }
+.greensquare
+{
+	border: solid 5px limegreen;
+	background-color: limegreen;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -250px;
+	left: 750px;
+}
+.bluesquare
+{
+	border: solid 5px deepskyblue;
+	background-color: deepskyblue;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	top: -500px;
+	left: 1350px;
+}
